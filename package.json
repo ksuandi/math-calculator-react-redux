@@ -1,0 +1,22 @@
+{
+  "name": "calculator-react2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
+    "@reduxjs/toolkit": "^1.3.6",
+    "mathjs": "^7.0.1",
+    "react-redux": "^7.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "sass": "^1.26.8",
+    "vite": "^0.20.0",
+    "vite-plugin-react": "^2.0.0"
+  }
+}
